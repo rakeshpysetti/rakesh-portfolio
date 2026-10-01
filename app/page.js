@@ -32,7 +32,7 @@ export default function Home() {
             patient outcomes.
           </p>
           <div className="hero-meta">
-            <span>6 Years Production Experience</span>
+            <span>7+ Years Production Experience</span>
             <span className="dot"></span>
             <span>Finance · Healthcare · Enterprise</span>
             <span className="dot"></span>
