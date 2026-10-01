@@ -58,7 +58,7 @@ export default function Home() {
                 <p>
                   Over six years, I have architected mission-critical AI/ML pipelines across financial services, healthcare, and enterprise SaaS &mdash; navigating HIPAA constraints, overnight batch risk windows, and large-scale model governance from India to the United States.
                 </p>
-                
+
                 <div className="about-domain-pills">
                   <span className="domain-chip amber">
                     <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
@@ -87,7 +87,7 @@ export default function Home() {
 
                 <ScrollReveal type="stagger" className="about-stats">
                   <div className="stat-card">
-                    <div className="stat-number">6+</div>
+                    <div className="stat-number">7+</div>
                     <div className="stat-label">Years in Production ML</div>
                   </div>
                   <div className="stat-card">
@@ -149,9 +149,9 @@ export default function Home() {
             <div className="section-label">Technical Expertise</div>
             <h2 className="section-title">Full-stack ML — from data to deployment.</h2>
           </ScrollReveal>
-          
+
           <ScrollReveal type="up">
-             <SkillsNetwork />
+            <SkillsNetwork />
           </ScrollReveal>
         </div>
       </section>
